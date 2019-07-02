@@ -19,6 +19,7 @@
         <option value="$PROJECT_DIR$/pinyougou-search-interface/pom.xml" />
         <option value="$PROJECT_DIR$/pinyougou-search-service/pom.xml" />
         <option value="$PROJECT_DIR$/pinyougou-search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDataRedisDemo/pom.xml" />
       </list>
     </option>
   </component>
